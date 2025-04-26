@@ -16,9 +16,11 @@ The token has been created be sure to keep this token private and not public.
 ![image](https://github.com/user-attachments/assets/7bbede79-a6ab-49c1-9355-7677f125298a)
 
 Create all the variables within the Environment section. 
-
+![image](https://github.com/user-attachments/assets/db132f08-6260-475a-b132-b53f5b603840)
 url : this will be your Okta URL ( https://dev-<number>.okta.com ) 
 apikey : this will be the API key that we created within Okta.
 email-suffix : anything of your own choice
-password : Oracle@123
-![image](https://github.com/user-attachments/assets/db132f08-6260-475a-b132-b53f5b603840)
+password : anything of your own choice
+![image](https://github.com/user-attachments/assets/fa129bfa-fd6a-411a-a65e-2a19ffadabcb)
+
+
