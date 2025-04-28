@@ -23,4 +23,8 @@ email-suffix : anything of your own choice
 password : anything of your own choice
 ![image](https://github.com/user-attachments/assets/fa129bfa-fd6a-411a-a65e-2a19ffadabcb)
 
+Now, we go to one of the request for Create User with Password & Recovery Question, and click the Send button. 
+![image](https://github.com/user-attachments/assets/4736acfa-6fc3-47e0-a12e-e47695d01d91)
 
+Now the user has been created
+![image](https://github.com/user-attachments/assets/d11bd353-cbbf-40e9-93e8-5786647c5126)
